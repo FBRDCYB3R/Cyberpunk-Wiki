@@ -7,7 +7,7 @@ Credit for information goes to GAMESATLAS and CDPR for making this great game
 
 [VEHICLES](#VEHICLES)
 
-WEAPONS @
+WEAPONS 
 
 CHARACTERS 
 
