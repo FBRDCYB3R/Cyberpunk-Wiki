@@ -64,9 +64,9 @@ The cars in Cyberpunk 2077 come in different Classes: Economy, Executive, Heavy 
 ____________________________________________________________________________________________________________________
 LIST OF HYPERCARS IN CYBERPUNK 2077 (SUPER CARS):
 
-[HERRERA OUTLAW GTS](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/HERRERA%20OUTLAW%20GTS)
+[HERRERA OUTLAW GTS](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/AERONDIGHT.md)
 
-[RAYFIELD AERONDIGHT S9 "GUINEVERE"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/AERONDIGHT)
+[RAYFIELD AERONDIGHT S9 "GUINEVERE"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/AERONDIGHT.md)
 
 
 RAYFIELD CALIBURN
