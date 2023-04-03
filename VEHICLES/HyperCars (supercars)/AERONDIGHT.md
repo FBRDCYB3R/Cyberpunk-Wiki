@@ -17,13 +17,13 @@ The pedigree engine under its hood puts this car on equal footing with professio
 With the help of a CrystalDome, the vehicle’s surroundings are displayed in real-time inside the cabin, ensuring complete driver privacy and stunning appearance.
 
 MANUFACTURER
-Manufacturer: RAYFIELD
+RAYFIELD
 
 VEHICLE CLASS
 HYPERCAR
 
 COUNTRY
-Country: UNITED KINGDOM
+UNITED KINGDOM
 
 PRODUCTION YEAR
 2075 - 2077
