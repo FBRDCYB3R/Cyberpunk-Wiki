@@ -57,4 +57,4 @@ SEATS
 NO. OF DOORS
 2
 
-![car](https://www.gamesatlas.com/igallery/901-1000/Cyberpunk2077_ArcherQuartz_Basic-920-192.jpg)
+![car](https://www.gamesatlas.com/images/jch-optimize/ng/images_cyberpunk2077_vehicles_archer-quartz.webp)
