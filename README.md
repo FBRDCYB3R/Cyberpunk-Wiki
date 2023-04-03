@@ -3,7 +3,7 @@
 This is a fan made Project for the game Cybperunk 2077, it contains a bunch of lore and specs about almost anything in the game.
 Credit for information goes to GAMESATLAS and CDPR for making this great game
 
-[Over view](#Over View)
+[Over view](#OverView)
 
 [VEHICLES](#VEHICLES)
 
@@ -30,7 +30,7 @@ LIFEPATHS
 ![title screen](https://external-preview.redd.it/wTimV48l1sEUPTh_RPLYaUxTdPBM77gf_IpAYi2seXY.png?format=pjpg&auto=webp&s=d1142a20b9dd155a101c12ad38c5446225c1d00e)
 ********************************************************************************************************************************************************************
 
-## Over View
+## OverView
 THE REAL YOU IS NOT ENOUGH
 Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. You can customize your character’s cyberware, skillset, and playstyle, and explore a vast city where the choices you make shape the story and the world around you.
 
