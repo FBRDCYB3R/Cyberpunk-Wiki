@@ -11,13 +11,13 @@ After Archer released the Hella, the company ran into trouble. The popular famil
 This two-seater with a durable engine was marked at an approachable price, but the subtle elegance and sturdiness of its design make it popular among more than the urban middle class. The Quartz is, as it turns out, well suited to endure the harsh desert climate. As a result, it has become a mainstay vehicle for a large portion of the nomad population. Any city folk who have dared risk interstate ground transport can likely testify that the silhouette of a Quartz on the horizon spells fast-approaching trouble.
 
 MANUFACTURER
-Manufacturer: ARCHER
+ARCHER
 
 VEHICLE CLASS
 SPORTS
 
 COUNTRY
-Country: CHINA
+ CHINA
 
 PRODUCTION YEAR
 2041 - 2077
@@ -38,7 +38,7 @@ DISTRICT
 WATSON
 
 LOCAL FIXER
-Regina JonesREGINA JONES
+REGINA JONES
 
 DRIVE TRAIN
 REAR-WHEEL DRIVE
