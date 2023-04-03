@@ -81,3 +81,5 @@ SEATS
 
 NO. OF DOORS
 2
+
+![car](https://www.gamesatlas.com/images/jch-optimize/ng/images_cyberpunk2077_vehicles_rayfield-caliburn.webp)
