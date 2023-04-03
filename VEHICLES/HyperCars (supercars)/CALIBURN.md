@@ -22,14 +22,15 @@ Rayfield developed the Caliburn with these clients in mind. Imbued with a sporti
 And whenever the driver wants to come down from their adrenaline high, they need only let go of the steering wheel to let the onboard navigational computer take control.
 
 RAYFIELD CALIBURN STATS & SPECS
+
 MANUFACTURER
-Manufacturer:  RAYFIELD
+RAYFIELD
 
 VEHICLE CLASS
 HYPERCAR
 
 COUNTRY
-Country: UNITED KINGDOM
+UNITED KINGDOM
 
 PRODUCTION YEAR
 2070
