@@ -57,3 +57,27 @@ Platforms:
 PC WINDOWS | PLAYSTATION5 | XBOX SERIES X | PLAYSTATION 4 | XBOX ONE | STADIA
 
 **********************************************************************************************************************************************************************
+## VEHICLES
+On this page you can find the full list of all the Cyberpunk 2077 Vehicles available in the game. Cyberpunk 2077 includes all kinds of Cars, Motorcycles, Trucks, aerial vehicles like Planes and Helicopters, as well as Boats and Drones.
+In Cyberpunk 2077, every car and motorcycle was crafted with amazing attention to detail, on the chassis, body and interiors. Not only each of them looks unique, but they also offer a unique driving experience to get around the huge open-world of Night City.
+The cars in Cyberpunk 2077 come in different Classes: Economy, Executive, Heavy Duty, Sports Cars, and Hypercars. And in addition to original vehicles, the game also features some real-life automotive icons. There is plenty of choice for all tastes, in terms of brands, class and model.
+____________________________________________________________________________________________________________________
+LIST OF HYPERCARS IN CYBERPUNK 2077 (SUPER CARS):
+[HERRERA OUTLAW GTS](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/HERRERA%20OUTLAW%20GTS).
+RAYFIELD AERONDIGHT S9 "GUINEVERE"
+RAYFIELD CALIBURN
+RAYFIELD EXCALIBUR @
+
+LIST OF SPORTS CARS IN CYBERPUNK 2077:
+ARCHER QUARTZ EC-L R275 / EC-T2 R660
+MIZUTANI SHION "COYOTE"
+MIZUTANI SHION MZ2
+PORSCHE 911 II (930) TURBO
+QUADRA TURBO-R 740
+QUADRA TURBO-R V-TECH
+QUADRA TYPE-66 "CTHULHU"
+QUADRA TYPE-66 "JAVELINA"
+QUADRA TYPE-66 "JEN ROWLEY"
+QUADRA TYPE-66 640 TS
+QUADRA TYPE-66 AVENGER
+QUADRA TYPE-66 REAVER
