@@ -13,13 +13,13 @@ Rayfield is renowned in the world for its exclusive luxury limousines: the Calib
 To avoid the burden of traffic altogether for its loyal consumers, Rayfield engineered the Excalibur, a luxury AV that allows you to arrive everywhere punctually, safely, and, most importantly, in maximum comfort and style. That is, assuming your bank account is as close to bottomless as possible.
 
 MANUFACTURER
-Manufacturer: RAYFIELD
+RAYFIELD
 
 VEHICLE CLASS
 HYPERCAR
 
 COUNTRY
-Country: UNITED KINGDOM
+UNITED KINGDOM
 
 PRODUCTION YEAR
 2076
