@@ -70,7 +70,7 @@ LIST OF HYPERCARS IN CYBERPUNK 2077 (SUPER CARS):
 
 [RAYFIELD CALIBURN](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/CALIBURN.md)
 
-RAYFIELD EXCALIBUR
+[RAYFIELD EXCALIBUR](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/EXCALIBUR.md)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 LIST OF SPORTS CARS IN CYBERPUNK 2077:
