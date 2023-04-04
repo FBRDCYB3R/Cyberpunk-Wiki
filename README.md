@@ -87,7 +87,7 @@ LIST OF SPORTS CARS IN CYBERPUNK 2077:
 
 [QUADRA TURBO-R V-TECH](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Sports%20cars/Turbo-R%20V-tech.md)
 
-[QUADRA TYPE-66 "CTHULHU"](
+[QUADRA TYPE-66 "CTHULHU"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Sports%20cars/CTHULHU.md)
 
 [QUADRA TYPE-66 "JAVELINA"]
 
