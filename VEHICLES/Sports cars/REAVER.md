@@ -13,3 +13,5 @@ NEW USA
 
 ACQUISITION
 CANNOT BE ACQUIRED
+
+![car](https://www.gamesatlas.com/igallery/901-1000/Cyberpunk2077_QuadraType66_Reaver-949-450.jpg)
