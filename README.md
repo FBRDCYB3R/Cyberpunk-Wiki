@@ -89,7 +89,7 @@ LIST OF SPORTS CARS IN CYBERPUNK 2077:
 
 [QUADRA TYPE-66 "CTHULHU"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Sports%20cars/CTHULHU.md)
 
-[QUADRA TYPE-66 "JAVELINA"]
+[QUADRA TYPE-66 "JAVELINA"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Sports%20cars/JAVELINA.md)
 
 [QUADRA TYPE-66 "JEN ROWLEY"]
 
