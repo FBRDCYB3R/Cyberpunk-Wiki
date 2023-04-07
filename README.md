@@ -102,16 +102,14 @@ LIST OF SPORTS CARS IN CYBERPUNK 2077:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 LIST OF MOTORCYCLES IN CYBERPUNK 2077:
 
-[ARCH NAZARÉ]
+[ARCH NAZARÉ](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/NAZARE.md)
 
-[BRENNAN APOLLO]
+[BRENNAN APOLLO](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/BRENNAN%20APOLLO.md)
 
-[BRENNAN APOLLO "SCORPION"]
+[BRENNAN APOLLO "SCORPION"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/SCORPION.md)
 
-[BRENNAN APOLLO BASIC]
+[JACKIE'S ARCH](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/JACKIES%20ARCH.md)
 
-[JACKIE'S ARCH]
+[YAIBA KUSANAGI CT-3X](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/YAIBA%20KUSANAGI.md)
 
-[YAIBA KUSANAGI CT-3X]
-
-[YAIBA KUSANAGI TYGER CLAW CUSTOM]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
