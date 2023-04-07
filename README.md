@@ -60,9 +60,12 @@ PC WINDOWS | PLAYSTATION5 | XBOX SERIES X | PLAYSTATION 4 | XBOX ONE | STADIA
 ## VEHICLES
 On this page you can find the full list of all the Cyberpunk 2077 Vehicles available in the game. Cyberpunk 2077 includes all kinds of Cars, Motorcycles, Trucks, aerial vehicles like Planes and Helicopters, as well as Boats and Drones.
 In Cyberpunk 2077, every car and motorcycle was crafted with amazing attention to detail, on the chassis, body and interiors. Not only each of them looks unique, but they also offer a unique driving experience to get around the huge open-world of Night City.
-The cars in Cyberpunk 2077 come in different Classes: Economy, Executive, Heavy Duty, Sports Cars, and Hypercars. And in addition to original vehicles, the game also features some real-life automotive icons. There is plenty of choice for all tastes, in terms of brands, class and model.
+The cars in Cyberpunk 2077 come in different Classes: Economy, Executive, Heavy Duty, Sports Cars, and Hypercars. And in addition to original vehicles, the game also features some real-life automotive icons. There is plenty of choice for all tastes, in terms of brands, class and model. All vehicles that cannot be obtained are not listed here.
 ____________________________________________________________________________________________________________________
 LIST OF HYPERCARS IN CYBERPUNK 2077 (SUPER CARS):
+
+If you need speed and armor, the hypercar class is for you. It means precise bodywork, built-in lidar arrays, and really expensive materials.
+Top-tier luxury cars are the domain of European manufacturers Herrera (Spain) and Rayfield (UK), which are known for their superb quality Super Cars, designed with both speed and comfort in mind. Most models also utilize new technology such as Crystal Dome, which projects an external view inside a fully enclosed, windowless car - providing absolute protection and privacy.
 
 [HERRERA OUTLAW GTS](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/HyperCars%20(supercars)/AERONDIGHT.md)
 
@@ -74,6 +77,9 @@ LIST OF HYPERCARS IN CYBERPUNK 2077 (SUPER CARS):
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 LIST OF SPORTS CARS IN CYBERPUNK 2077:
+
+Sports Cars in Cyberpunk 2077 have powerful engines and exchangeable parts which make them perfect for tuning. Whether it's street racing, running from the NCPD, or just showing off in the streets, with these high powered beasts you will only have respect.
+The top brands in the Sports Class are the Japanese Mizutani, and the American Quadra. Quadra excels at building muscle cars, like the Type-66, or their most iconic design, the Turbo-R.
 
 [ARCHER QUARTZ EC-L R275 / EC-T2 R660](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Sports%20cars/ARCHER%20QUARTZ.md)
 
@@ -102,6 +108,9 @@ LIST OF SPORTS CARS IN CYBERPUNK 2077:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 LIST OF MOTORCYCLES IN CYBERPUNK 2077:
 
+Cyberpunk 2077 also features several motorbikes to choose from. For those with a more modest budget but prefer not to get stuck in Night City traffic, a motorcycle is the perfect solution.
+Yaiba specializes in sport models, which are popular among street-racing biker gangs. Brennan Cycles offers a more traditional design, and are known for their cruisers and choppers, more practical for longer trips between cities.
+
 [ARCH NAZARÉ](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/NAZARE.md)
 
 [BRENNAN APOLLO](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/BRENNAN%20APOLLO.md)
@@ -113,3 +122,52 @@ LIST OF MOTORCYCLES IN CYBERPUNK 2077:
 [YAIBA KUSANAGI CT-3X](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/MOTORCYLES/YAIBA%20KUSANAGI.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+LIST OF EXECUTIVE CARS IN CYBERPUNK 2077:
+
+If you need to impress, the Executive class is what you're looking for. With these luxurious vehicles, no expense has been spared, no frill ignored. Their plush interiors are decked out in all the latest tech, while you get to sit back and enjoy the ride.
+Villefort builds good-quality cars that are popular among wealthier citizens and lower-ranked corporations, while Chevillon is known for its neo-militaristic style - with their vehicles being widely used by police and security forces.
+
+[CHEVILLON EMPEROR 620 RAGNAR](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/EXECUTIVE%20CARS/RAGNAR.md)
+
+[CHEVILLON THRAX 388 JEFFERSON](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/EXECUTIVE%20CARS/JEFFERSON.md)
+
+[VILLEFORT ALVARADO "VATO"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/EXECUTIVE%20CARS/VATO.md)
+
+[VILLEFORT ALVARADO V4F 570 DELEGATE](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/EXECUTIVE%20CARS/DELEGATE.md)
+
+[VILLEFORT COLUMBUS V340-F FREIGHT](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/EXECUTIVE%20CARS/FREIGHT.md)
+
+[VILLEFORT CORTES V5000 VALOR](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/EXECUTIVE%20CARS/VALOR.md)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LIST OF ECONOMY CARS IN CYBERPUNK 2077:
+
+This class mostly includes utility vehicles and low-end cars that are affordable to acquire. Don’t expect advanced tech or luxurious materials in the Economy vehicles, which lack in durability and quality. These vehicles are often spotted on the streets of poorer districts and among Nomad clans.
+The two cheapest brands are the Japanese Magikai - known for compact cars, and the Indian Mahir Motors - known for vans. The American manufacturer Thorton and Chinese manufacturer Archer offer mid-class passenger vehicles, which are more robust and durable.
+
+[ARCHER HELLA EC-D I360](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/ARCHER%20HELLA.md)
+
+[MAHIR SUPRON FS3](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/SUPRON%20FS3.md)
+
+[MAKIGAI MAIMAI P126](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/MAIMAI%20P126.md)
+
+[THORTON COLBY "LITTLE MULE"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/Little%20Mule.md)
+
+[THORTON COLBY C125](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/COLBY%20C125.md)
+
+[THORTON COLBY CX410 BUTTE](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/CX410%20BUTTE.md)
+
+[THORTON GALENA "GECKO"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/GECKO.md)
+
+[THORTON GALENA G240](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/GALENA%20G240.md)
+
+[THORTON GALENA GA40XT "RATTLER"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/GALENA%20G240.md)
+
+[THORTON MACKINAW "WARHORSE"](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/WARHORSE.md)
+
+[THORTON MACKINAW MTL1](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/MACKINAW.md)
+
+
+
+
+
