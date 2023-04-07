@@ -7,7 +7,7 @@ Credit for information goes to GAMESATLAS and CDPR for making this great game
 
 [VEHICLES](#VEHICLES)
 
-WEAPONS 
+[WEAPONS](#WEAPONS)
 
 CHARACTERS 
 
@@ -167,7 +167,7 @@ The two cheapest brands are the Japanese Magikai - known for compact cars, and t
 
 [THORTON MACKINAW MTL1](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/VEHICLES/Economy%20cars/MACKINAW.md)
 
-
-
+*****************************************************************************************************************************************************************
+## WEAPONS
 
 
