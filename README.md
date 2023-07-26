@@ -175,23 +175,23 @@ Take a look below at the full list of confirmed Cyberpunk weapons, including the
 ASSAULT RIFLES
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[D5 COPPERHEAD]
+[D5 COPPERHEAD](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/D5%20COPPERHEAD.md)
 
-[D5 SIDEWINDER]
+[D5 SIDEWINDER](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/D5%20SIDEWINDER.md)
 
-[DIVIDED WE STAND- Iconic D5 Sidewinder]
+[DIVIDED WE STAND- Iconic D5 Sidewinder](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/DIVIDED%20WE%20STAND.md)
 
-[HJSH-18 MASAMUNE]
+[HJSH-18 MASAMUNE](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/MASAMUNE.md)
 
-[M251S AJAX]
+[M251S AJAX](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/AJAX.md)
 
-[MORON LABE- Iconic AJAX]
+[MORON LABE- Iconic AJAX](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/labe.md)
 
-[NOWAKI]
+[NOWAKI](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/NOWAKI.md)
 
-[PREJUDICE- Iconic MASAMUNE]
+[PREJUDICE- Iconic MASAMUNE](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/pre.md)
 
-[PSALM 11:6- Iconic D5 COPPERHEAD]
+[PSALM 11:6- Iconic D5 COPPERHEAD](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/PSALM%2011%3A6.md)
 
 []
 
