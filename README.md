@@ -170,4 +170,29 @@ The two cheapest brands are the Japanese Magikai - known for compact cars, and t
 *****************************************************************************************************************************************************************
 ## WEAPONS
 
+Take a look below at the full list of confirmed Cyberpunk weapons, including the legendary Iconic Weapons. Click on a weapon from the database to see their stats, tier, corporation, and more info.
 
+ASSAULT RIFLES
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[D5 COPPERHEAD]
+
+[D5 SIDEWINDER]
+
+[DIVIDED WE STAND- Iconic D5 Sidewinder]
+
+[HJSH-18 MASAMUNE]
+
+[M251S AJAX]
+
+[MORON LABE- Iconic AJAX]
+
+[NOWAKI]
+
+[PREJUDICE- Iconic MASAMUNE]
+
+[PSALM 11:6- Iconic D5 COPPERHEAD]
+
+[]
+
+[]
