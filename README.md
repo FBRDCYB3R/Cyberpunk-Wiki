@@ -9,7 +9,7 @@ Credit for information goes to GAMESATLAS and CDPR for making this great game
 
 [WEAPONS](#WEAPONS)
 
-CHARACTERS 
+[CHARACTERS](#CHARACTERS)
 
 THE GANGS OF NIGHT CITY
 
@@ -193,6 +193,104 @@ ASSAULT RIFLES
 
 [PSALM 11:6- Iconic D5 COPPERHEAD](https://github.com/FBRDCYB3R/Cyberpunk-Wiki/blob/main/WEAPONS/PSALM%2011%3A6.md)
 
-[]
 
-[]
+**************************************************************************************************************************************************************************
+## CHARACTERS
+
+This page includes all the main Protagonists, Antagonists, and Supporting Characters. Clicking on a Character brings you to their profile, with character information, images, and more details.
+
+[Jackie Welles]
+
+[Viktor Vektor]
+
+[Dexter DeShawn]
+
+[Meredith Stout]
+
+[Misty Olszewski]
+
+[Royce]
+
+[Evelyn Parker]
+
+[Judy Alvarez]
+
+[T-Bug]
+
+[Delamain]
+
+[Yorinobu Arasaka]
+
+[Saburo Arasaka]
+
+[Johnny Silverhand]
+
+[Kerry Eurodyne]
+
+[Goro Takemura]
+
+[Rogue Amendiares]
+
+[Panam Palmer]
+
+[Saul Bright]
+
+[Mitch Anderson]
+
+[Wakako Okada]
+
+[Placide]
+
+[Maman Brigitte]
+
+[Alt Cunningham]
+
+[Sandayu Oda]
+
+[Hanako Arasaka]
+
+[Anders Hellman]
+
+[Adam Smasher]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
